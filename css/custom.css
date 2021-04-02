@@ -1,0 +1,32 @@
+div#post {
+    background: rgba(255, 255, 255, 0.9);
+}
+
+div#page {
+    background: rgba(255, 255, 255, 0.9);
+}
+
+/* 头图透明 */
+#page-header {
+    background: transparent !important;
+}
+
+div#archive {
+    background: rgba(255, 255, 255, 0.9);
+}
+
+div#tag {
+    background: rgba(255, 255, 255, 0.9);
+}
+
+div#category {
+    background: rgba(255, 255, 255, 0.9);
+}
+
+div#aside-content {
+    opacity: 0.9;
+}
+
+div.layout > div:first-child {
+    opacity: 0.9;
+}
