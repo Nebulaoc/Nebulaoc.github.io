@@ -2,6 +2,10 @@ div#post {
     background: rgba(255, 255, 255, 0.9);
 }
 
+/* #nav.show {
+    background: transparent !important;
+} */
+
 div#page {
     background: rgba(255, 255, 255, 0.9);
 }
